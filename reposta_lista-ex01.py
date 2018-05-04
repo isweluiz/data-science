@@ -243,7 +243,25 @@ soma_ob
 #27 - A = 4,75 - 8 - 9,75 - 12
 #28  (a) 5% e 8%; 15% e 45%; 51% e 95%.
 #29 
+#(a) O número de observações. = 33
+#(b) O numerador da média = 455
+#(c) O denominador da média = 33
+#(d) A média. = 13
+#(e) A mediana. = 14 
+#(f) O numerador da variância = 369 
+#(g) O denominador da variância = 33
+#(h) A variância = 11
+#(i) O desvio padrão. = 3
 #30
+#(a) O número de observações. = 12
+#(b) O numerador da média = 123 
+#(c) O denominador da média = 12
+#(d) A média. = 10
+#(e) A mediana. = 9
+#(f) O numerador da variância = 122
+#(g) O denominador da variância = 12
+#(h) A variância = 10 
+#(i) O desvio padrão = 3
 #31 
 ##A - PMDB 2273
 ## B - PT -1179
@@ -264,5 +282,3 @@ soma_ob
 ##(e) PT. -- True
 ##(f) REDE. -- True
 #------------
-
-
